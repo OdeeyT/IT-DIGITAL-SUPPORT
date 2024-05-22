@@ -1,10 +1,10 @@
-# Project Title
+# GLOBAL CONCEPT
 
-A brief description of what this project does and who it's for.
+THE PROJECT IS TO CREATE AVENUE FOR ORDERS IN CCTV COMMUNITY.
 
 ## Installation
 
-Instructions for how to install and set up the project.
+INSTALLATIONS WILL GO ON WHEN PAYMENT ARE BEING MADE.
 
 ```bash
 npm install
